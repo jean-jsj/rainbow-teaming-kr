@@ -26,6 +26,7 @@ python main.py
 
 ## Citation
 If you find the LLM prompts from this repository useful, please cite it with:
+```bibtex
 @misc{Hong2025Rainbow,
   author = {Juwon Hong},
   title = {Replication of Rainbow Teaming: 'Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts'},
